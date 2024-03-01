@@ -6,7 +6,10 @@ authors = ["Prince Mbeah Essilfie <mbeahessilfieprince@gmail.com>"]
 license = "MIT OR Apache-2.0"
 description = "A tool to search files"
 readme = "README.md"
-
+homepage = "https://github.com/Kratosgado/grrs"
+repository = "https://github.com/Kratosgado/grrs"
+keywords = ["cli", "search", "demo"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
